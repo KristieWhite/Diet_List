@@ -1,3 +1,34 @@
-.pink {
-	background-color: pink;
+#meat {
+	background-color: red;
+	color: white;
+	padding: 1em;
+}
+
+#fish {
+	background-color: white;
+	color: black;
+	padding: 1em;
+}
+
+#dairy {
+	background-color: blue;
+	color: white;
+	padding: 1em;
+}
+
+#beans {
+	background-color: white;
+	color: black;
+	padding: 1em;
+}
+
+#nuts {
+	background-color: blue;
+	color: white;
+	padding: 1em;
+}
+#grains {
+	background-color: red;
+	color: white;
+	padding: 1em;
 }
