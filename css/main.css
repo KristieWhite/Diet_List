@@ -23,18 +23,43 @@
 }
 
 #beans {
-	background-color: white;
+	background-color: #b2e4f1;
 	color: black;
 	padding: 1em;
 }
 
 #nuts {
-	background-color: blue;
+	background-color: #f78204;
 	color: white;
 	padding: 1em;
 }
 #grains {
-	background-color: red;
+	background-color: #dedede;
+	color: black;
+	padding: 1em;
+}
+#veggies {
+	background-color: #1e8822;
 	color: white;
+	padding: 1em;
+}
+#fruits {
+	background-color: #ffea7a;
+	color: black;
+	padding: 1em;
+}
+#oils {
+	background-color: #790000;
+	color: white;
+	padding: 1em;
+}
+#herbs {
+	background-color: #f4f8ff;
+	color: black;
+	padding: 1em;
+}
+#beverages {
+	background-color: #81e2da;
+	color: black;
 	padding: 1em;
 }
