@@ -333,7 +333,9 @@ td:first-child {
 th:last-child,
 td:last-child {
   padding-right: 0; }
-
+table {
+  display: inline-block;
+}
 
 /* Spacing
 –––––––––––––––––––––––––––––––––––––––––––––––––– */

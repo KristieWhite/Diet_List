@@ -2,38 +2,49 @@
 	text-transform: capitalize;
 	text-shadow: 1px;
 	color: black;
+	padding: 1em;
+}
+.tableWidth {
+	width: 50%;
 }
 #meat {
-	background-color: red;
+	background-color: #a23434;
 	color: white;
 	padding: 1em;
+	/*display: inline-block;*/
 }
 
 #fish {
-	background-color: white;
+	background-color: #e4dfdf;
 	color: black;
 	padding: 1em;
+	/*display: inline-block;*/
 }
 
 #dairy {
-	background-color: blue;
-	color: white;
+	background-color: #f5eedb;
+	color: black;
 	padding: 1em;
+	/*display: inline-block;*/
+	width: 50%;
 }
 
 #beans {
 	background-color: white;
 	color: black;
 	padding: 1em;
+	/*display: inline-block;*/
 }
 
 #nuts {
 	background-color: blue;
 	color: white;
 	padding: 1em;
+	/*display: inline-block;*/
 }
 #grains {
 	background-color: red;
 	color: white;
 	padding: 1em;
+	/*display: inline-block;*/
 }
